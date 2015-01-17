@@ -1,8 +1,8 @@
-package com.laima.util;
+package com.laima.maimm.global.util;
 
 import org.apache.commons.codec.binary.Base64;
 
-import com.laima.exception.DESException;
+import com.laima.maimm.exception.DESException;
 
 public class BaseEncUtil {
 	

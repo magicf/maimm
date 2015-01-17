@@ -1,4 +1,4 @@
-package com.laima.util;
+package com.laima.maimm.global.util;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

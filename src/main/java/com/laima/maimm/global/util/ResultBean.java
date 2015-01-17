@@ -1,4 +1,4 @@
-package com.laima.util;
+package com.laima.maimm.global.util;
 
 /**
  * 结果封装

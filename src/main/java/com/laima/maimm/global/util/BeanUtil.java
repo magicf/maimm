@@ -1,4 +1,4 @@
-package com.laima.util;
+package com.laima.maimm.global.util;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

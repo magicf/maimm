@@ -24,7 +24,7 @@
 	</defaultCache>
 
 
-	<!-- 以下为负载形式配置 -->
+	<!-- 以下为负载形式配置 
 	<cacheManagerPeerProviderFactory
 		class="net.sf.ehcache.distribution.RMICacheManagerPeerProviderFactory"
 		properties="peerDiscovery=manual, rmiUrls=//10.61.60.27:44444/gCache" />
@@ -41,4 +41,6 @@
 		<bootstrapCacheLoaderFactory
 			class="net.sf.ehcache.distribution.RMIBootstrapCacheLoaderFactory" />
 	</cache>
+	
+	-->
 </ehcache>

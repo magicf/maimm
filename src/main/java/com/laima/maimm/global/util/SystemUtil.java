@@ -1,4 +1,4 @@
-package com.laima.util;
+package com.laima.maimm.global.util;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

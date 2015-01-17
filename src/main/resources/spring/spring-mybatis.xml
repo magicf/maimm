@@ -16,7 +16,7 @@
 		http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task-3.2.xsd" 
 		>
 		
-	<!-- mybatis -->
+	<!-- mybatis 
 	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
 		<property name="configLocation" value="classpath:mybatis-config.xml" />
 		<property name="mapperLocations" value="classpath:com/mapabc/push/mapper/*Mapper.xml" />
@@ -27,5 +27,7 @@
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer" >
 		<property name="basePackage"  value="com.laima.dao"/>
 	</bean>
+	
+	-->
 
 </beans>

@@ -1,4 +1,4 @@
-package com.laima.util;
+package com.laima.maimm.global.util;
 
 public class CryptorUtil {
 	private byte[] s = new byte[256]; // SBox

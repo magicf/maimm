@@ -1,4 +1,4 @@
-package com.laima.exception;
+package com.laima.maimm.exception;
 
 public class DESException extends RuntimeException {
 
